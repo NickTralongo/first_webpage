@@ -1,5 +1,9 @@
-h1 {
+#midnightblue-heading {
   color: midnightblue;
   font-family: fantasy;
-  font-size: 60px
+  font-size: 60px;
+}
+
+/*h1 {
+<p class= "fantasy-paragraph"> This page is about crazy stuff that you wish that you wish you could do.
 }
